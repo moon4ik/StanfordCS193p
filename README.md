@@ -1,2 +1,5 @@
 # StanfordCS193p
-Stanford CS193p - Developing Apps for iOS
+
+Stanford's CS193p course, Developing Applications for iOS, explains the fundamentals of how to build applications for iPhone and iPad using SwiftUI.
+
+https://cs193p.sites.stanford.edu
